@@ -31,5 +31,16 @@
     "prettier": "2.8.8",
     "react-test-renderer": "19.1.0",
     "typescript": "^5.8.3"
+  },
+  "pnpm": {
+    "overrides": {
+      "minimatch@3": "3.1.5",
+      "minimatch@8": "8.0.7",
+      "minimatch@9": "9.0.9",
+      "brace-expansion@1": "1.1.13",
+      "brace-expansion@2": "2.0.3",
+      "shell-quote@1": "1.8.4",
+      "protobufjs@7": "7.6.2"
+    }
   }
 }
