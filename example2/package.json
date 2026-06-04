@@ -30,7 +30,8 @@
       "node-forge@1": "1.4.0",
       "postcss@8": "8.5.15",
       "picomatch@2": "2.3.2",
-      "picomatch@4": "4.0.4"
+      "picomatch@4": "4.0.4",
+      "@xmldom/xmldom@0.8": "0.8.13"
     }
   }
 }
