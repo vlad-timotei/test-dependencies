@@ -1,0 +1,22 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native-firebase/app": "^23.7.0",
+    "@react-native-firebase/messaging": "^23.7.0",
+    "expo": "~55.0.4",
+    "expo-build-properties": "~55.0.9",
+    "expo-splash-screen": "~55.0.10",
+    "expo-status-bar": "~55.0.4",
+    "react": "19.2.0",
+    "react-native": "0.83.2",
+    "local-sdk": "link:..",
+    "react-native-permissions": "^5.4.4",
+    "react-native-safe-area-context": "^5.6.2"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.14",
+    "typescript": "~5.9.2"
+  }
+}
